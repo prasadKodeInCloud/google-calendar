@@ -1,10 +1,10 @@
 {
   "name": "google-calendar",
   "description": "Google Calendar API for Node.js",
-  "homepage": "https://github.com/berryboy/google-calendar",
+  "homepage": "https://github.com/prasadKodeInCloud/google-calendar",
   "repository": {
     "type": "git",
-    "url": "https://github.com/berryboy/google-calendar"
+    "url": "https://github.com/prasadKodeInCloud/google-calendar"
   },
   "version": "1.3.0",
   "main": "./GoogleCalendar",
